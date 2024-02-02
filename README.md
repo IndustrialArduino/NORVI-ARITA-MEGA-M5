@@ -17,3 +17,6 @@ Digital Inputs
 Relay outputs
 Transistor outputs
 DIN-Rail mount
+
+Datasheet:   https://drive.google.com/open?id=1nDzS8JVXLRfx6kTz4b7c8LL4wruhidvD&usp=drive_fs
+User Guide:  https://drive.google.com/open?id=1n5h5Mjjy53oiNxSidoxmdURX0mvt_UZP&usp=drive_fs
